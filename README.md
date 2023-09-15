@@ -1,11 +1,9 @@
 ### Hi there, Joana here 👋
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanajaupi&count_private=true&show_icons=true&theme=tokyonight)
 ![Snake animation](https://github.com/joanajaupi/joanajaupi/blob/output/github-contribution-grid-snake.svg)
-</div>
 
-    
-    
+<div align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanajaupi&count_private=true&show_icons=true&theme=tokyonight)
+</div>
   <div align="center">
     <h3>Languages and Tools:</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
