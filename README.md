@@ -14,7 +14,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </div>
-
   <div align="center">
     <p>📫 Reach me at <a href="mailto:jjaupi01@gmail.com">jjaupi01@gmail.com</a></p>
   </div>
