@@ -19,7 +19,9 @@
   </div>
 
   <div align="center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanajaupi&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanajaupi&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+  </div>
+  <div>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joanajaupi" alt="GitHub Streak" /></p>
   </div>
 
