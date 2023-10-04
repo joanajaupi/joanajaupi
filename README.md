@@ -22,3 +22,6 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanajaupi&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joanajaupi" alt="GitHub Streak" /></p>
   </div>
+
+  <div align="center">
+  <p><img align="center" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47i1iwfwap4n4i3v012oteqc5agj1scy9nirgkbe5z&ep=v1_gifs_search&rid=giphy.gif&ct=g"></p>
